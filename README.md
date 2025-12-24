@@ -32,4 +32,4 @@ This project converts markdown-formatted meeting notes into a well-formatted Goo
 - All headings, bullets, and checkboxes are converted properly.
 
 ## Repository Link
-[Your GitHub Repository](https://github.com/your-username/google-docs-meeting-notes)
+[Your GitHub Repository](https://github.com/HruthikG-hub/google-docs-meeting-notes)
