@@ -12,3 +12,24 @@ This project converts markdown-formatted meeting notes into a well-formatted Goo
 2. Install dependencies:
    ```python
    !pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client markdown2
+   ```
+## Dependencies
+- google-auth
+- google-auth-oauthlib
+- google-auth-httplib2
+- google-api-python-client
+- markdown2
+
+## How to Run
+1. Make a copy of the notebook in Google Drive or download it locally.
+2. Open it in Google Colab.
+3. Run all code cells.
+4. The script will create a Google Doc and provide a link to access it.
+
+## Notes
+- Ensure your Google account has permission to create Google Docs.
+- The notebook preserves the original markdown formatting.
+- All headings, bullets, and checkboxes are converted properly.
+
+## Repository Link
+[Your GitHub Repository](https://github.com/your-username/google-docs-meeting-notes)
